@@ -223,6 +223,10 @@ footer{
   align-items: center;
   padding: 20px;
   }
+
+  html {
+  scroll-behavior: smooth;
+  }
 }
 
 
